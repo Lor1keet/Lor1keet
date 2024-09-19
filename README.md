@@ -38,9 +38,7 @@
   </a>
 </p>
  
-<h2></h2>
- 
-<img align="right" alt="GIF" src="OctoCharmve/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
 <!--
 **Azum1o/Azum1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
