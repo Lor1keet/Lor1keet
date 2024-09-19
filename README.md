@@ -3,7 +3,6 @@
 </p>
 
 # *Hail to Thee*  
-
 摆烂小子/代码菜鸟/柚子厨/B站破事水UP...学习RL中
 <br>
 
@@ -14,15 +13,11 @@
 </div>
 
 <p align="center">
-<br><br>
 <strong>My social media</strong>
 <br><br>
 <a href="https://space.bilibili.com/177644749" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
-</p>
-
-<p align="center">
 <br><br>
 <strong>My tiny work</strong>
 <br><br>
