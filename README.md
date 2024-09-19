@@ -8,7 +8,7 @@
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=Azum1o" alt="Azum1o's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Lor1keet" alt="Lor1keet's GitHub stats">
     </a>
 </div>
 
@@ -21,20 +21,20 @@
 <br><br>
 <strong>My tiny work</strong>
 <br><br>
-<a href="https://github.com/Azum1o">
-    <img src="https://badges.strrl.dev/visits/Azum1o/Azum1o?style=flat-square&color=black&logo=github">
+<a href="https://github.com/Lor1keet">
+    <img src="https://badges.strrl.dev/visits/Lor1keet/Lor1keet?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Azum1o">
-    <img src="https://badges.strrl.dev/years/Azum1o?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Lor1keet">
+    <img src="https://badges.strrl.dev/years/Lor1keet?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Azum1o?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/Azum1o?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Lor1keet?tab=repositories">
+    <img src="https://badges.strrl.dev/repos/Lor1keet?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Azum1o">
-    <img src="https://badges.strrl.dev/gists/Azum1o?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/Lor1keet">
+    <img src="https://badges.strrl.dev/gists/Lor1keet?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Azum1o">
-    <img src="https://badges.strrl.dev/commits/monthly/Azum1o?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/Lor1keet">
+    <img src="https://badges.strrl.dev/commits/monthly/Lor1keet?style=flat-square&color=black&logo=github">
   </a>
 </p>
  
