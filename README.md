@@ -3,7 +3,7 @@
 </p>
 
 # *Hail to Thee*  
-摆烂小子/代码菜鸟/柚子厨/B站破事水UP...学习RL中
+啥也不会啊
 <br>
 
 <div align="center">
