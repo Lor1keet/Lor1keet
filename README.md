@@ -3,8 +3,6 @@
 </p>
 
 # *Hail to Thee*  
-啥也不会啊
-<br>
 
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,8 +16,6 @@
 <a href="https://space.bilibili.com/177644749" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
   </a>
-<br><br>
-<strong>My tiny work</strong>
 <br><br>
 <a href="https://github.com/Lor1keet">
     <img src="https://badges.strrl.dev/visits/Lor1keet/Lor1keet?style=flat-square&color=black&logo=github">
@@ -38,9 +34,5 @@
   </a>
 </p>
  
-
-
-<!--
-**Azum1o/Azum1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
