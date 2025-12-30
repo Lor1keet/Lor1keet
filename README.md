@@ -10,6 +10,15 @@
     </a>
 </div>
 
+<p align="center">
+<strong>My social media</strong>
+<br><br>
+<a href="https://space.bilibili.com/177644749" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="https://user-images.githubusercontent.com/29084184/166415345-91925d37-c66f-448f-8d75-c8355fe0b692.png" width="30px"/>
+  </a>
+<br><br>
+<strong>My tiny work</strong>
+<br><br>
 <a href="https://github.com/Lor1keet">
     <img src="https://badges.strrl.dev/visits/Lor1keet/Lor1keet?style=flat-square&color=black&logo=github">
   </a>
@@ -26,6 +35,3 @@
     <img src="https://badges.strrl.dev/commits/monthly/Lor1keet?style=flat-square&color=black&logo=github">
   </a>
 </p>
- 
-
-
